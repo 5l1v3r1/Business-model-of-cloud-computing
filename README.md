@@ -19,7 +19,11 @@ an example to illustrate the proposed business model.
 How to install
 
 1.Install XAMPP S/w with apache and mysql
+
 2.copy the code folder(cloud) to C:\xampp\htdocs
+
 3.copy databasefiles folder(cloud)to C:\xampp\mysql\data
+
 4.Run Xampp control panel from startbutton
+
 5.open browser and type https://localhost/cloud
